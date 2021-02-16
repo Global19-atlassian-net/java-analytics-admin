@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.3.1](https://www.github.com/googleapis/java-analytics-admin/compare/v0.3.0...v0.3.1) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#152](https://www.github.com/googleapis/java-analytics-admin/issues/152)) ([62b6cd9](https://www.github.com/googleapis/java-analytics-admin/commit/62b6cd925df28035c247d67fbe86c5e46d810d4d))
+
 ## [0.3.0](https://www.github.com/googleapis/java-analytics-admin/compare/v0.2.5...v0.3.0) (2021-01-19)
 
 
